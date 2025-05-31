@@ -1,5 +1,5 @@
 # AngularEcom
-
+This is an E-commerce website bulit using Angular19.
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
 
 
